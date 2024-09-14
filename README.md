@@ -4,3 +4,4 @@
 ## 4th Advance Configurations
 ## 5th Monitoring and alerting EFK
 ## 6th Scaling the EFK stack
+## 7th Securing EFK Stack
