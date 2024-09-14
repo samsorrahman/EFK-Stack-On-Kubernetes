@@ -2,4 +2,5 @@
 ## 2nd: Install fluntd on k8s
 ## 3rd Install Kibana on K8s
 ## 4th Advance Configurations
-## Monitoring and alerting EFK
+## 5th Monitoring and alerting EFK
+## 6th Scaling the EFK stack
